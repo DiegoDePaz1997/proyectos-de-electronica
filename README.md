@@ -1,5 +1,4 @@
-# laboratorios-de-electronica
-algunos proyectos que tenía en local
+# proyectos de electronica
 
 son algunos de los proyectos que hicimos en grupo o individual de la carrera
 de ingenieria en electrónica.
